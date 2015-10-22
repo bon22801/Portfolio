@@ -73,8 +73,9 @@ header {
 .nav-links {
 	width: 400px;
   position: relative;
-  top: 30px;
-  left: 10px;
+  top: 25px;
+  left: 30px;
+	text-align: left;
 }
 
 .nav-links li {
@@ -125,4 +126,19 @@ header {
 }
 
 
+/*** project ***/
 
+.project-title {
+    font-family: Raleway;
+    font-size: 2.25em;
+    font-weight: 600;
+}
+
+.project img {
+    width: 49%;
+    box-shadow: 2px 4px 8px #999;
+}
+
+#project p {
+	line-height: 23px;
+}
