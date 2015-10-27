@@ -128,17 +128,43 @@ header {
 
 /*** project ***/
 
+#project {
+	width: 90%;
+}
+
 .project-title {
     font-family: Raleway;
     font-size: 2.25em;
     font-weight: 600;
 }
 
-.project img {
-    width: 49%;
-    box-shadow: 2px 4px 8px #999;
+#project img {
+    float: left;
+    position: relative;
+    left: 20%;
 }
 
 #project p {
 	line-height: 23px;
+	font-size: 16px;
+}
+
+.project-technology-tags {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    height: 60px;
+}
+
+.project-technology-tags li {
+    display: inline-block;
+    padding: 5px 8px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+    background-color: #FA8072;
+    text-transform: uppercase;
+    font-size: 0.875em;
+    font-weight: 300;
+    letter-spacing: 1px;
+    color: white;
 }
