@@ -158,6 +158,7 @@ header {
   font-family: Raleway;
   font-size: 2.25em;
 	font-weight: 600;
+	margin: 0 auto;
 }
 
 .project-technology-tags {
