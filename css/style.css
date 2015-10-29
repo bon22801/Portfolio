@@ -221,6 +221,11 @@ header {
 	font-weight: 300;
 }
 
+.success {
+	color: green;
+	font-weight: 300;
+}
+
 .contact-form-header {
 	margin-bottom: 30px;
 	font-weight: 600;
