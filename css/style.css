@@ -1,8 +1,8 @@
 /* CSS Reset */
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
+	 v2.0 | 20110126
+	 License: none (public domain)
 */
 
 html, body, div, span, applet, object, iframe,
@@ -58,7 +58,7 @@ table {
 }
 
 ul li {
-    display: inline-block;
+	display: inline-block;
 }
 
 /*** header ***/
@@ -66,7 +66,7 @@ ul li {
 header {
 	background-image: url("../img/background.jpg");
 	background-position: center bottom;
-  background-size: cover;
+	background-size: cover;
 	color: white;
 	text-align: center;
 	font-size: 1.6em;
@@ -76,18 +76,18 @@ header {
 
 .nav-links {
 	width: 400px;
-  position: relative;
-  top: 25px;
-  left: 30px;
+	position: relative;
+	top: 25px;
+	left: 30px;
 	text-align: left;
 }
 
 .nav-links li {
 	display: inline-block;
-  margin-right: 15px;
+	margin-right: 15px;
 	font-size: 0.8em;
 	font-family: Helvetica; 
-  letter-spacing: 1px;
+	letter-spacing: 1px;
 }
 
 .nav-links li a {
@@ -97,7 +97,7 @@ header {
 
 .intro-line {
 	position: relative;
-  top: 40px;
+	top: 40px;
 }
 
 .intro-line img{
@@ -106,27 +106,27 @@ header {
 }
 
 .tagline {
-  top: 10px;
+	top: 10px;
 	font-size: 0.9em;
 	text-align: center;
-  font-weight: 300;
-  letter-spacing: 1.5px;
+	font-weight: 300;
+	letter-spacing: 1.5px;
 	color: white;
 }
 
 .intro-description {
 	position: inherit;
-  top: 10px;
-  max-width: 550px;
-  margin: 30px auto;
-  text-align: center;
-  text-transform: uppercase;
-  line-height: 55px;
-  font-family: Raleway;
-  font-size: 2em;
-  font-weight: 700;
-  letter-spacing: 1px;
-  color: white;
+	top: 10px;
+	max-width: 550px;
+	margin: 30px auto;
+	text-align: center;
+	text-transform: uppercase;
+	line-height: 55px;
+	font-family: Raleway;
+	font-size: 2em;
+	font-weight: 700;
+	letter-spacing: 1px;
+	color: white;
 }
 
 
@@ -155,37 +155,37 @@ header {
 }
 
 .project-title {
-  font-family: Raleway;
-  font-size: 2.25em;
+	font-family: Raleway;
+	font-size: 2.25em;
 	font-weight: 600;
 	margin: 0 auto;
 }
 
 .project-technology-tags {
 	margin-top: 15px;
-  margin-bottom: 5px;
+	margin-bottom: 5px;
 	height: 60px;
 }
 
 .project-technology-tags li {
-  display: inline-block;
-  padding: 5px 8px;
-  margin-right: 5px;
-  margin-bottom: 5px;
-  border-radius: 3px;
-  background-color: #FA8072;
-  text-transform: uppercase;
-  font-size: 0.875em;
-  font-weight: 300;
-  letter-spacing: 1px;
-  color: white;
+	display: inline-block;
+	padding: 5px 8px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	border-radius: 3px;
+	background-color: #FA8072;
+	text-transform: uppercase;
+	font-size: 0.875em;
+	font-weight: 300;
+	letter-spacing: 1px;
+	color: white;
 }
 
 .project-links i {
 	display: inline-block;
-  margin-right: 16px;
-  font-size: 2em;
-  color: #BBB;
+	margin-right: 16px;
+	font-size: 2em;
+	color: #BBB;
 }
 
 /*** contact ***/
