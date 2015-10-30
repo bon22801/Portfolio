@@ -1,3 +1,8 @@
-# Portfolio 
+# [My Portfolio](http://bon22801.github.io/)
 
-Build a portfolio using AngularJS MVC architecture.
+### My personal website. It is built with..
+
+- HTML, CSS, Javascript
+- [Bootstrap](http://getbootstrap.com/)
+- [jQuery](https://jquery.com/)
+- [Velocity.js](http://julian.com/research/velocity/)
