@@ -65,6 +65,7 @@ ul li {
 	display: inline-block;
 }
 
+
 /*** header ***/
 
 header {
@@ -102,6 +103,16 @@ header {
 .intro-line {
 	position: relative;
 	top: 40px;
+}
+
+.project-link a {
+	color: white;
+	text-decoration: none;
+}
+
+.project-link a:hover {
+	color: white;
+	text-decoration: none;
 }
 
 .intro-line img{
@@ -310,9 +321,7 @@ header {
 	cursor: pointer;
 }
 
-/*** footer ***/
-
-/* Footer */
+/*** Footer ***/
 
 footer {
 	position: relative;
